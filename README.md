@@ -26,6 +26,7 @@ subprocess.call(['sh', './skills.sh']
 > shell
 > latex
 > ansible
+> docker
 > openstack
 > openshift
 > netbox
