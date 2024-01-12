@@ -45,6 +45,7 @@ Last login: too long ago
 
 # games
 - EXAPUNKS
+- Hades
 
 # reading
 - private ;-)
@@ -56,6 +57,7 @@ Last login: too long ago
 # study (private)
 - puppet
 - libvirt
+- github workflows deep dive
 - yet another server setup
 ```
 
