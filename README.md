@@ -4,7 +4,6 @@
 cat welcome.txt
 
 > hi my name is Lukas Koenen
-> I am currently taking a master of science (cs) at goethe university frankfurt
 ```
 
 ```bash
@@ -49,10 +48,6 @@ Last login: too long ago
 
 # reading
 - private ;-)
-
-# study (university)
-- algorithms and data structures 2
-- stochastics
 
 # study (private)
 - puppet
